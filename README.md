@@ -20,7 +20,9 @@ although i hate showing off myself here are some projects that i have done in th
 - [BananaHackers WebStore](https://store.bananahackers.net): web client for the BananaHackers community's home-grown store.
 - [COVID-19 Numbers](https://github.com/jkelol111/covid19numbers): app that displays COVID-19 numbers and information using your location for KaiOS (made in around a week or so)
 - [tkyoutubedl](https://github.com/jkelol111/tkyoutubedl): download your YouTube videos with a Python 'app' written in Python using the pytube library.
-- Sticker#io: a platformer game written as part for the TechKids Hackathon (i lost the link to my earlier GitHub account with the code 😭)
+- Stickerio: a platformer game written as part for the TechKids Hackathon (i lost the link to my earlier GitHub account with the code 😭)
+
+there are more pinned stuff below so if you want check them out 😊
 
 ## tech & tools that i use ⚒️
 
