@@ -6,11 +6,15 @@ my name is Nguyen Thanh Nam, otherwise known as jkelol111. here are some boring 
 
 - i'm currently doing my a-levels in malaysia. 
 - i code in my free time, and publish most of it on this GitHub.
-- not a very smart person but i like taking risks (maybe that's why i'm dumb).
+- i'm a dumb ass. never scored top, never will.
 - i'm not tall, i'm really short compared to everyone else.
+- i walk 2+ steps each leg contraction going up the stairs.
 - i don't have any fashion sense.
-- i suck at talking to girls.
+- i talk more if you bring up stuff for me to talk.
+- i'm nice with groupwork.
+- i suck at talking to girls. or to anyone really.
 - yes i'm a guy.
+- this fact list is accurate and i did write it myself.
 
 ## prominent projects 🌟
 
