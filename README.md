@@ -13,7 +13,7 @@ my name is Nguyen Thanh Nam, otherwise known as jkelol111. here are some boring 
 - i talk more if you bring up stuff for me to talk.
 - i'm nice with groupwork.
 - i suck at talking to girls. or to anyone really.
-- yes i'm a guy.
+- yes i'm a guy. lonely guy. hmu if you in my school :)
 - this fact list is accurate and i did write it myself.
 
 ## prominent projects 🌟
