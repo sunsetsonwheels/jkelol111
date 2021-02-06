@@ -14,17 +14,25 @@ my name is Nguyen Thanh Nam, otherwise known as jkelol111. here are some boring 
 
 i use a number of technologies and tools. to the makers of these, i really have to thank you.
 
-![](https://img.shields.io/badge/laptop-MacBook_Pro-informational?style=flat&logo=apple&logoColor=white&color=FF0000) 
-![](https://img.shields.io/badge/os-anything_UNIX-informational?style=flat&logo=linux&logoColor=white&color=FF7F00) 
-![](https://img.shields.io/badge/shell-bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=00FF00) 
-![](https://img.shields.io/badge/editor-Visual_Studio_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=FFFF00) 
-![](https://img.shields.io/badge/editor-vim-informational?style=flat&logo=vim&logoColor=white&color=0000FF) 
-![](https://img.shields.io/badge/language-python-informational?style=flat&logo=python&logoColor=white&color=2E2B5F) 
-![](https://img.shields.io/badge/language-javascript-informational?style=flat&logo=javascript&logoColor=white&color=8B00FF)
+![](https://img.shields.io/badge/laptop-MacBook_Pro-informational?style=flat&logo=apple&logoColor=white&color=000000) 
 
-## my GitHub stats 📊
+![](https://img.shields.io/badge/os-macOS-informational?style=flat&logo=macOS&logoColor=white&color=000000)
+![](https://img.shields.io/badge/os-Ubuntu-informational?style=flat&logo=ubuntu&logoColor=white&color=E95420)
+![](https://img.shields.io/badge/os-Fedora-informational?style=flat&logo=fedora&logoColor=white&color=294172)
+![](https://img.shields.io/badge/de-GNOME-informational?style=flat&logo=gnome&logoColor=white&color=4A86CF)
 
-![](https://github-readme-stats.vercel.app/api?username=jkelol111&show_icons=true&theme=gruvbox)
+![](https://img.shields.io/badge/editor-Visual_Studio_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=007ACC) 
+![](https://img.shields.io/badge/editor-Sublime_Text-informational?style=flat&logo=sublime-text&logoColor=white&color=FF9800) 
+![](https://img.shields.io/badge/ide-Xcode-informational?style=flat&logo=xcode&logoColor=white&color=1575F9) 
+
+![](https://img.shields.io/badge/lang-Python-informational?style=flat&logo=python&logoColor=white&color=3776AB) 
+![](https://img.shields.io/badge/lang-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=F7DF1E)
+![](https://img.shields.io/badge/lang-HTML-informational?style=flat&logo=html5&logoColor=white&color=E34F26)
+![](https://img.shields.io/badge/lang-Swift-informational?style=flat&logo=swift&logoColor=white&color=FA7343)
+![](https://img.shields.io/badge/lang-C-informational?style=flat&logo=c&logoColor=white&color=A8B9CC)
+
+![](https://img.shields.io/badge/music-Apple_Music-informational?style=flat&logo=apple-music&logoColor=white&color=000000)
+![](https://img.shields.io/badge/music-SoundCloud-informational?style=flat&logo=soundcloud&logoColor=white&color=FF3300)
 
 ## ending ✋🏼
 
