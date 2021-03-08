@@ -38,9 +38,8 @@ i use a number of technologies and tools. to the makers of these, i really have 
 ![](https://img.shields.io/badge/lang-Swift-informational?style=flat&logo=swift&logoColor=white&color=FA7343)
 ![](https://img.shields.io/badge/lang-C-informational?style=flat&logo=c&logoColor=white&color=A8B9CC)
 ![](https://img.shields.io/badge/db-SQLite-informational?style=flat&logo=sqlite&logoColor=white&color=003B57)
-![](https://img.shields.io/badge/music-Apple_Music-informational?style=flat&logo=apple-music&logoColor=white&color=000000)
+![](https://img.shields.io/badge/music_+_podcasts-Spotify-informational?style=flat&logo=spotify&logoColor=white&color=1ED760)
 ![](https://img.shields.io/badge/music-SoundCloud-informational?style=flat&logo=soundcloud&logoColor=white&color=FF3300)
-![](https://img.shields.io/badge/podcasts-Apple_Podcasts-informational?style=flat&logo=apple-podcasts&logoColor=white&color=9933CC)
 
 ## ending ✋🏼
 
