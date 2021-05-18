@@ -1,16 +1,14 @@
 ## hello there 👋🏼
 
-my name is Nguyen Thanh Nam, otherwise known as jkelol111. here are some boring stuff about me, in no particular order:
+my name is Nam Thanh Nguyen, otherwise known as jkelol111. here are some boring stuff about me, in no particular order:
 
 - i'm currently ~~regretting~~ doing my a-levels in malaysia
 - i code in my free time, and publish most of it on this GitHub.
-- i'm not tall, i'm really short compared to everyone else.
-- i'm nice with groupwork.
-- this fact list is accurate and i did write it myself.
+- am a shawty.
+- yes.
 
-here are my socials if you want to check out my other musings lol:
+here are my socials if you want to check out my other (boring) musings:
 
-[![](https://img.shields.io/badge/reddit-jkelol111-informational?style=flat&logo=reddit&logoColor=white&color=FF4500)](https://reddit.com/u/jkelol111)
 [![](https://img.shields.io/badge/twitter-jkelol111-informational?style=flat&logo=twitter&logoColor=white&color=1DA1F2)](https://twitter.com/jkelol111)
 [![](https://img.shields.io/badge/instagram-jkelol__111-informational?style=flat&logo=instagram&logoColor=white&color=E4405F)](https://instagram.com/jkelol_111)
 [![](https://img.shields.io/badge/linkedin-jkelol111-informational?style=flat&logo=linkedin&logoColor=white&color=0077B5)](https://linkedin.com/jkelol111)
@@ -37,8 +35,8 @@ i use a number of technologies and tools. to the makers of these, i really have 
 ![](https://img.shields.io/badge/lang-Swift-informational?style=flat&logo=swift&logoColor=white&color=FA7343)
 ![](https://img.shields.io/badge/lang-C-informational?style=flat&logo=c&logoColor=white&color=A8B9CC)
 ![](https://img.shields.io/badge/db-SQLite-informational?style=flat&logo=sqlite&logoColor=white&color=003B57)
-![](https://img.shields.io/badge/music_+_podcasts-Spotify-informational?style=flat&logo=spotify&logoColor=white&color=1ED760)
-![](https://img.shields.io/badge/music-SoundCloud-informational?style=flat&logo=soundcloud&logoColor=white&color=FF3300)
+![](https://img.shields.io/badge/music-Apple_Music-informational?style=flat&logo=apple-music&logoColor=white&color=E8515E)
+![](https://img.shields.io/badge/podcasts-Apple_Podcasts-informational?style=flat&logo=apple-podcasts&logoColor=white&color=B150E2)
 
 ## ending ✋🏼
 
