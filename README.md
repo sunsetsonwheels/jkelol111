@@ -1,11 +1,9 @@
 ## hello there 👋🏼
 
-my name is Nam Thanh Nguyen, otherwise known as jkelol111. here are some boring stuff about me, in no particular order:
+i'm Nam Thanh Nguyen, otherwise known as jkelol111. here are some boring stuff about me, in no particular order:
 
-- i'm currently ~~regretting~~ doing my a-levels in malaysia
+- i'm currently ~~regretting~~ doing my a-levels in malaysia.
 - i code in my free time, and publish most of it on this GitHub.
-- am a shawty.
-- yes.
 
 here are my socials if you want to check out my other (boring) musings:
 
@@ -40,4 +38,4 @@ i use a number of technologies and tools. to the makers of these, i really have 
 
 ## ending ✋🏼
 
-so yeah, that's all you need to know about me. if you appreciate my work, feel free to donate to me via [PayPal](https://paypal.me/jkelol111) or [Buy Me a Coffee](https://buymeacoffee/jkelol111). your help to pay off my crippling college debt is sincerely appreciated.
+so yeah, that's all you need to know about me. if you appreciate my work, feel free to donate to me via [PayPal](https://paypal.me/jkelol111) or [Buy Me a Coffee](https://buymeacoffee.com/jkelol111). your help to pay off my crippling college debt is sincerely appreciated.
